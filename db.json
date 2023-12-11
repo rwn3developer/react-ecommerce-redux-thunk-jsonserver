@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "milan",
+      "email": "milan",
+      "password": "1234",
+      "city": "surat",
+      "phone": "12345",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "1234",
+      "city": "surat",
+      "phone": "12345",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "name": "c",
+      "email": "c@gmail.com",
+      "password": "1234",
+      "city": "vadodara",
+      "phone": "2121212",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "d",
+      "email": "d@gmail.com",
+      "password": "1234",
+      "city": "ahemdabad",
+      "phone": "121212",
+      "role": "user",
+      "id": 5
+    }
+  ]
+}
